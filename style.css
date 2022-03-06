@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+    background: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 500%;
+    font-family: "Courier New";
+}
+
+h2 {
+    font-size: 350%;
+    font-family: "Courier New";
+    margin-top: -40px;
+}
+
+p {
+    margin: 60px 40%;
+    font-size: 500%;
+    font-family: "Courier New";
+    border: solid 1px white;
+    border-radius: 15px;
+}
+
+button {
+    border: solid 1px white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 300%;
+    margin: 5px;
+}
+
+#start {
+    width: 10%;
+}
+
+#reset {
+    font-size: 250%;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+.github {
+    width: 18px;
+    height: 18px;
+}
